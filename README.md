@@ -36,14 +36,15 @@ This review identified key areas of improvement that guided my three enhancement
 - Implementing efficient data handling with optimized algorithms
 - Enhancing database queries and improving data consistency
 
+## Original Code
+- [Link to Original Code](https://github.com/elmarzmo/cs465-Fullsatck/tree/module7)
+
 
 # Enhancement One: Software Design and Engineering
 
 ## Description
 This enhancement focuses on refactoring the backend of the Travel Web Application to improve maintainability, readability, and scalability.
 
-## Original Code
-- [Link to Original Code](https://github.com/elmarzmo/cs465-Fullsatck/tree/module7)
 
 ## Enhancements Implemented
 - Converted callback-based functions to async/await syntax.
@@ -64,8 +65,7 @@ Read the full narrative: [Software Design Narrative](https://github.com/elmarzmo
 ## Description
 This enhancement optimizes the trip filtering and sorting functionality of the Travel App by using efficient algorithms and appropriate data structures.
 
-## Original Code
-- [Link to Original Code](../original/travel_app_original.md)
+
 
 ## Enhancements Implemented
 - Replaced nested loops with MongoDB aggregation for better performance.
@@ -86,8 +86,7 @@ Read the full narrative: [Algorithms Narrative](https://github.com/elmarzmo/CS49
 ## Description
 This enhancement focuses on improving database structure, indexing, and query optimization in MongoDB for faster and more reliable data retrieval.
 
-## Original Code
-- [Link to Original Code](../original/travel_app_original.md)
+
 
 ## Enhancements Implemented
 - Normalized collections to reduce redundancy.
@@ -101,5 +100,9 @@ This enhancement focuses on improving database structure, indexing, and query op
 
 ## Narrative
 Read the full narrative: [Databases Narrative](https://github.com/elmarzmo/CS499-ePortfolio/blob/main/Narrtives/5-2%20database.pdf)
+
+## Code After Enhancement
+- [Link to Original Code](https://github.com/elmarzmo/cs465-Fullsatck/tree/cs499)
+
 
   
