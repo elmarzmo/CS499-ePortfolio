@@ -102,7 +102,7 @@ This enhancement focuses on improving database structure, indexing, and query op
 Read the full narrative: [Databases Narrative](https://github.com/elmarzmo/CS499-ePortfolio/blob/main/Narrtives/5-2%20database.pdf)
 
 ## Code After Enhancement
-- [Link to Original Code](https://github.com/elmarzmo/cs465-Fullsatck/tree/cs499)
+- [Link to Enhanced Code](https://github.com/elmarzmo/cs465-Fullsatck/tree/cs499)
 
 
   
