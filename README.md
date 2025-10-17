@@ -19,14 +19,14 @@ Each enhancement highlights a specific area of computer science expertise aligne
 
 
 ## 🔗 Portfolio Sections
-- [Code Review](./code_review/code_review.md)
-- [Software Design Enhancement](./enhancements/software_design.md)
-- [Algorithms and Data Structures Enhancement](./enhancements/algorithms.md)
-- [Databases Enhancement](./enhancements/databases.md)
+- [Code Review](#code-review)
+- [Software Design Enhancement](#enhancement-one-software-design-and-engineering)
+- [Algorithms and Data Structures Enhancement](#enhancement-two-algorithms-and-data-structures)
+- [Databases Enhancement](#enhancement-three-databases)
 
 
 
-# Code Review
+## Code Review
 
 *Placeholder for your code review video link — add it when uploaded.*
 
