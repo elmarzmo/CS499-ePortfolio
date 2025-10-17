@@ -57,7 +57,7 @@ This enhancement focuses on refactoring the backend of the Travel Web Applicatio
 - Secure authentication practices
 
 ## Narrative
-Read the full narrative: [Software Design Narrative](../narratives/software_design_narrative.md)
+Read the full narrative: [Software Design Narrative](https://github.com/elmarzmo/CS499-ePortfolio/blob/main/Narrtives/3-2%20Software%20Design%20and%20Engineering.pdf)
 
 # Enhancement Two: Algorithms and Data Structures
 
@@ -78,7 +78,7 @@ This enhancement optimizes the trip filtering and sorting functionality of the T
 - Backend performance tuning
 
 ## Narrative
-Read the full narrative: [Algorithms Narrative](../narratives/algorithms_narrative.md)
+Read the full narrative: [Algorithms Narrative](https://github.com/elmarzmo/CS499-ePortfolio/blob/main/Narrtives/4-2%20Algorithms%20and%20Data%20Structure.pdf)
 
 
 # Enhancement Three: Databases
@@ -100,6 +100,6 @@ This enhancement focuses on improving database structure, indexing, and query op
 - Data integrity management
 
 ## Narrative
-Read the full narrative: [Databases Narrative](../Narrtives.md)
+Read the full narrative: [Databases Narrative](https://github.com/elmarzmo/CS499-ePortfolio/blob/main/Narrtives/5-2%20database.pdf)
 
   
