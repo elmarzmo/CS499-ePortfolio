@@ -13,7 +13,10 @@ My Computer Science Capstone ePortfolio (SNHU CS-499)
 # Overview
 
 ##  Professional Self-Assessment
-Throughout my Computer Science program at SNHU, I have developed a strong foundation in software engineering, data structures, algorithms, databases, and full-stack web development. This ePortfolio demonstrates my growth as a computer scientist  student and showcases the enhancements I made to my original artifact — a **Travel Web Application** built with Angular, Node.js, and MongoDB.
+Throughout my Computer Science program at SNHU, I have worked on diverse projects and developed a strong foundation in software engineering, data structure, algorithms, databases, and full-stack web development. In this ePortfolio, I demonstrated my ability to apply clean software design principles, optimize performance, and ensure data security, it also show how my work aligns with the five class outcomes: Software Design and Engineering, Algorithm and Data Structures, Databases, Security, and Communication and Professionalism.
+For Software Design and Engineering, I implemented a clean architecture in the backend of my Travel Web Application to make the code more modular and maintainable. In Algorithms and Data Structures, I optimized data handling and sorting logic allowing trips to be sorted by price and date and added a search by destination feature for a better user experience. For the databases outcome, I implemented indexing and added data visualization to improve performance and usability. In terms of Security, I integrated JWT authentication and enhanced error handling to ensure data integrity and protect sensitive information. Finally, for Communication and professionalism, I maintained a commented code, wrote a clear narrative documentation, and organized my Github repository to make it easy to navigate.
+This experience helped me refine my technical and professional skills, showcasing my growth as a computer science student. By enhancing my original artifact, I demonstrated my ability to analyze, improve, and communicate complex software solutions effectively.
+
 
 Each enhancement highlights a specific area of computer science expertise aligned with the program outcomes:
 1. Software Design and Engineering
