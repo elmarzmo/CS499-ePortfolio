@@ -32,15 +32,6 @@ Each enhancement highlights a specific area of computer science expertise aligne
 
 
 
-## Code Review
-
-*Placeholder for your code review video link — add it when uploaded.*
-
-In this section, I conducted a code review of my original Travel Web Application, analyzing its structure, performance, and security.  
-This review identified key areas of improvement that guided my three enhancements:
-- Refactoring and modularizing the backend code (Software Design)
-- Implementing efficient data handling with optimized algorithms
-- Enhancing database queries and improving data consistency
 
 ## Original Code
 - [Link to Original Code](https://github.com/elmarzmo/cs465-Fullsatck/tree/module7)
